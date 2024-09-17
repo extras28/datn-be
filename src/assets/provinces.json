@@ -1,0 +1,382 @@
+{
+  "provinces": [
+    {
+      "provinceId": 1,
+      "provinceCode": "92",
+      "provinceName": "Thành phố Cần Thơ",
+      "provinceType": "Thành phố Trung ương"
+    },
+    {
+      "provinceId": 2,
+      "provinceCode": "48",
+      "provinceName": "Thành phố Đà Nẵng",
+      "provinceType": "Thành phố Trung ương"
+    },
+    {
+      "provinceId": 3,
+      "provinceCode": "01",
+      "provinceName": "Thành phố Hà Nội",
+      "provinceType": "Thành phố Trung ương"
+    },
+    {
+      "provinceId": 4,
+      "provinceCode": "31",
+      "provinceName": "Thành phố Hải Phòng",
+      "provinceType": "Thành phố Trung ương"
+    },
+    {
+      "provinceId": 5,
+      "provinceCode": "79",
+      "provinceName": "Thành phố Hồ Chí Minh",
+      "provinceType": "Thành phố Trung ương"
+    },
+    {
+      "provinceId": 6,
+      "provinceCode": "89",
+      "provinceName": "Tỉnh An Giang",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 7,
+      "provinceCode": "77",
+      "provinceName": "Tỉnh Bà Rịa - Vũng Tàu",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 8,
+      "provinceCode": "95",
+      "provinceName": "Tỉnh Bạc Liêu",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 9,
+      "provinceCode": "24",
+      "provinceName": "Tỉnh Bắc Giang",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 10,
+      "provinceCode": "06",
+      "provinceName": "Tỉnh Bắc Kạn",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 11,
+      "provinceCode": "27",
+      "provinceName": "Tỉnh Bắc Ninh",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 12,
+      "provinceCode": "83",
+      "provinceName": "Tỉnh Bến Tre",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 13,
+      "provinceCode": "74",
+      "provinceName": "Tỉnh Bình Dương",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 14,
+      "provinceCode": "52",
+      "provinceName": "Tỉnh Bình Định",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 15,
+      "provinceCode": "70",
+      "provinceName": "Tỉnh Bình Phước",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 16,
+      "provinceCode": "60",
+      "provinceName": "Tỉnh Bình Thuận",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 17,
+      "provinceCode": "96",
+      "provinceName": "Tỉnh Cà Mau",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 18,
+      "provinceCode": "04",
+      "provinceName": "Tỉnh Cao Bằng",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 19,
+      "provinceCode": "66",
+      "provinceName": "Tỉnh Đắk Lắk",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 20,
+      "provinceCode": "67",
+      "provinceName": "Tỉnh Đắk Nông",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 21,
+      "provinceCode": "11",
+      "provinceName": "Tỉnh Điện Biên",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 22,
+      "provinceCode": "75",
+      "provinceName": "Tỉnh Đồng Nai",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 23,
+      "provinceCode": "87",
+      "provinceName": "Tỉnh Đồng Tháp",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 24,
+      "provinceCode": "64",
+      "provinceName": "Tỉnh Gia Lai",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 25,
+      "provinceCode": "02",
+      "provinceName": "Tỉnh Hà Giang",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 26,
+      "provinceCode": "35",
+      "provinceName": "Tỉnh Hà Nam",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 27,
+      "provinceCode": "42",
+      "provinceName": "Tỉnh Hà Tĩnh",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 28,
+      "provinceCode": "30",
+      "provinceName": "Tỉnh Hải Dương",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 29,
+      "provinceCode": "93",
+      "provinceName": "Tỉnh Hậu Giang",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 30,
+      "provinceCode": "17",
+      "provinceName": "Tỉnh Hoà Bình",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 31,
+      "provinceCode": "33",
+      "provinceName": "Tỉnh Hưng Yên",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 32,
+      "provinceCode": "56",
+      "provinceName": "Tỉnh Khánh Hòa",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 33,
+      "provinceCode": "91",
+      "provinceName": "Tỉnh Kiên Giang",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 34,
+      "provinceCode": "62",
+      "provinceName": "Tỉnh Kon Tum",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 35,
+      "provinceCode": "12",
+      "provinceName": "Tỉnh Lai Châu",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 36,
+      "provinceCode": "20",
+      "provinceName": "Tỉnh Lạng Sơn",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 37,
+      "provinceCode": "10",
+      "provinceName": "Tỉnh Lào Cai",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 38,
+      "provinceCode": "68",
+      "provinceName": "Tỉnh Lâm Đồng",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 39,
+      "provinceCode": "80",
+      "provinceName": "Tỉnh Long An",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 40,
+      "provinceCode": "36",
+      "provinceName": "Tỉnh Nam Định",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 41,
+      "provinceCode": "40",
+      "provinceName": "Tỉnh Nghệ An",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 42,
+      "provinceCode": "37",
+      "provinceName": "Tỉnh Ninh Bình",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 43,
+      "provinceCode": "58",
+      "provinceName": "Tỉnh Ninh Thuận",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 44,
+      "provinceCode": "25",
+      "provinceName": "Tỉnh Phú Thọ",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 45,
+      "provinceCode": "54",
+      "provinceName": "Tỉnh Phú Yên",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 46,
+      "provinceCode": "44",
+      "provinceName": "Tỉnh Quảng Bình",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 47,
+      "provinceCode": "49",
+      "provinceName": "Tỉnh Quảng Nam",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 48,
+      "provinceCode": "51",
+      "provinceName": "Tỉnh Quảng Ngãi",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 49,
+      "provinceCode": "22",
+      "provinceName": "Tỉnh Quảng Ninh",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 50,
+      "provinceCode": "45",
+      "provinceName": "Tỉnh Quảng Trị",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 51,
+      "provinceCode": "94",
+      "provinceName": "Tỉnh Sóc Trăng",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 52,
+      "provinceCode": "14",
+      "provinceName": "Tỉnh Sơn La",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 53,
+      "provinceCode": "72",
+      "provinceName": "Tỉnh Tây Ninh",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 54,
+      "provinceCode": "34",
+      "provinceName": "Tỉnh Thái Bình",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 55,
+      "provinceCode": "19",
+      "provinceName": "Tỉnh Thái Nguyên",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 56,
+      "provinceCode": "38",
+      "provinceName": "Tỉnh Thanh Hóa",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 57,
+      "provinceCode": "46",
+      "provinceName": "Tỉnh Thừa Thiên Huế",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 58,
+      "provinceCode": "82",
+      "provinceName": "Tỉnh Tiền Giang",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 59,
+      "provinceCode": "84",
+      "provinceName": "Tỉnh Trà Vinh",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 60,
+      "provinceCode": "08",
+      "provinceName": "Tỉnh Tuyên Quang",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 61,
+      "provinceCode": "86",
+      "provinceName": "Tỉnh Vĩnh Long",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 62,
+      "provinceCode": "26",
+      "provinceName": "Tỉnh Vĩnh Phúc",
+      "provinceType": "Tỉnh"
+    },
+    {
+      "provinceId": 63,
+      "provinceCode": "15",
+      "provinceName": "Tỉnh Yên Bái",
+      "provinceType": "Tỉnh"
+    }
+  ]
+}

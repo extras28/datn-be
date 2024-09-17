@@ -1,0 +1,37 @@
+{
+  "name": "eship-nodejs-backend",
+  "version": "1.0.0",
+  "description": "Backend Quản lý đơn hàng eShip",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-specifier-resolution=node src/index.js",
+    "dev": "nodemon --experimental-specifier-resolution=node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.mdcgate.com:8443/eship/backend.git"
+  },
+  "author": "dungna",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "mariadb": "^3.2.3",
+    "moment": "^2.30.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.9.9",
+    "sequelize": "^6.37.1"
+  }
+}

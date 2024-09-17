@@ -1,0 +1,15 @@
+node_modules/
+.idea
+.DS_Store
+.env
+.env.deveplopment
+.env.production
+uploads/
+public
+.vscode
+tmp
+**/*.zip
+**/*.gz
+dist
+.tmp
+storage
